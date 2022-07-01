@@ -1,2 +1,6 @@
 This is the exercise file where we will do our exercise projects
+<<<<<<< HEAD
 amendenments done
+=======
+some changes to the file done.
+>>>>>>> 8ca4b1ee1068262615d8de7a593dd3067492e497
